@@ -1,15 +1,12 @@
-<!--
-**cfikeAI/cfikeAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # ⚙️ cfikeAI
 
-Based in the U.S. | M.S. in Information Systems | Machine Learning Focus | Specializing in MLOps, Cloud AI, and Cybersecurity
+Based in the U.S. | M.S. in Information Systems | Specializing in MLOps, Cloud AI, and Cybersecurity
 
 ---
 
 ## 🧠 About Me
 
-I'm focused on building real systems—not just prototypes. My work bridges AI, cloud infrastructure, and security to deliver production-ready solutions. From a dual background in IT and the humanities, I bring a unique combination of technical skill and strategic thinking.
+I'm focused on building real systems—not just prototypes. My work bridges AI, cloud infrastructure, and security to deliver production-ready solutions. I bring a unique combination of technical skill and strategic thinking from a dual background in IT and the humanities.
 
 Currently training full-time in:
 
@@ -44,8 +41,7 @@ Currently training full-time in:
 
 ## 🔭 Now Building
 
-- End-to-end scalable MLOps stack with CI/CD, monitoring, and experiment tracking 
-- Personal Library Tracker that implements various ML technologies for convenience
+- End-to-end scalable MLOps stack with CI/CD, monitoring, and experiment tracking  
 - AI deployment workflows with full infrastructure-as-code  
 - Applied AI tools for cognitive augmentation and research acceleration
 
