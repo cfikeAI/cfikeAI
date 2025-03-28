@@ -11,7 +11,7 @@ Based in the U.S. | M.S. in Information Systems | Machine Learning Focus | Speci
 
 ## 🧠 About Me
 
-I'm focused on building real systems—not just prototypes. My work bridges AI, cloud infrastructure, and security to deliver production-ready solutions. I bring a unique combination of technical skill and strategic thinking from a dual background in IT and the humanities.
+I'm focused on building real systems—not just prototypes. My work bridges AI, cloud infrastructure, and security to deliver production-ready solutions. From a dual background in IT and the humanities, I bring a unique combination of technical skill and strategic thinking.
 
 Currently training full-time in:
 
