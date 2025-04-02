@@ -13,7 +13,6 @@ I earned my M.S. from UMBC with a 4.0 GPA, focusing on AI, machine learning, and
 ---
 
 ## 🎯 Current Focus
-
 -Azure AI services and infrastructure (AZ-104, AI-102)
 -Full MLOps pipelines using Docker, Kubernetes, Terraform, MLflow, and GitHub Actions
 -Cloud-based model deployment with FastAPI & real-time monitoring (Prometheus, Grafana)
