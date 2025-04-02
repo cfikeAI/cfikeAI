@@ -8,24 +8,21 @@ Based in the U.S. | M.S. in Information Systems | Specializing in MLOps, Cloud A
 
 I'm focused on building real systems—not just prototypes. My work bridges AI, cloud infrastructure, and security to deliver production-ready solutions. I bring a unique combination of technical skill and strategic thinking from a dual background in IT and the humanities.
 
-Currently training full-time in:
-
-- Azure AI services and infrastructure
-- MLOps pipelines using Docker, Kubernetes, and Terraform
-- Cloud-based model deployment and monitoring
-- NLP and applied machine learning
-- Cybersecurity fundamentals (Security+ prep)
+Azure AI services and infrastructure (AZ-104, AI-102 prep)
+Full MLOps pipelines (Docker, Kubernetes, Terraform, MLflow, GitHub Actions)
+Cloud-based model deployment with FastAPI & real-time monitoring (Prometheus, Grafana)
+NLP and applied machine learning (PyTorch, Transformers, LightGBM, Dask)
+Cybersecurity fundamentals (Security+ prep)
 
 ---
 
 ## 🛠️ Technical Toolkit
-
-- **Languages:** Python, SQL, Bash  
-- **Tools:** FastAPI, Docker, Kubernetes, Git, MLflow, GitHub Actions  
-- **Cloud:** Azure, Azure ML Studio, Terraform, AWS (basic)  
-- **ML:** PyTorch, Hugging Face Transformers, XGBoost, DVC  
-- **Monitoring:** Prometheus, Grafana  
-- **Environment:** Linux (Ubuntu), Windows, VS Code, Jupyter
+Languages: Python, SQL, Bash
+Tools: FastAPI, Docker, Kubernetes, Git (branching, merges, CI), MLflow, GitHub Actions
+Cloud: Azure, Azure ML Studio, Terraform, AWS (basic)
+ML: PyTorch, Hugging Face Transformers, XGBoost, LightGBM, Dask, DVC
+Monitoring: Prometheus, Grafana
+Environment: Linux (Ubuntu), Windows, VS Code, Jupyter
 
 ---
 
