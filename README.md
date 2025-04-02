@@ -49,5 +49,5 @@ Currently training full-time in:
 
 ## 📬 Contact
 
-- **LinkedIn:** [https://linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- **LinkedIn:** [https://linkedin.com/in/yourname](https://www.linkedin.com/in/chad-fike)  
 - **GitHub:** [https://github.com/cfikeAI](https://github.com/cfikeAI)
