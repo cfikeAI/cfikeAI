@@ -1,6 +1,6 @@
 # ⚙️ cfikeAI
 
-Based in the U.S. | M.S. in Information Systems | Specializing in MLOps, Cloud AI, and Cybersecurity
+Based in the U.S. | M.S. in Information Systems (AI/ML Concentration) | Specializing in MLOps, Cloud AI, and Cybersecurity
 
 ---
 
