@@ -9,7 +9,7 @@ Based in the U.S. | M.S. in Information Systems (AI/ML Concentration) | Speciali
 I'm focused on building real systems—not just prototypes. My work bridges AI, cloud infrastructure, and security to deliver production-ready solutions. I bring a unique combination of technical skill and strategic thinking from a dual background in IT and the humanities.
 
 - Azure AI services and infrastructure (AZ-104, AI-102)
-- Full MLOps pipelines (Docker, Kubernetes, Terraform, MLflow, GitHub Actions)
+- Full MLOps pipelines using Docker, Kubernetes, Terraform, MLflow, and GitHub Actions
 - Cloud-based model deployment with FastAPI & real-time monitoring (Prometheus, Grafana)
 - NLP and applied machine learning (PyTorch, Transformers, LightGBM, Dask)
 - Cybersecurity fundamentals
