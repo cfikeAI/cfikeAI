@@ -12,13 +12,13 @@ I'm focused on building real systems—not just prototypes. My work bridges AI, 
 - Full MLOps pipelines (Docker, Kubernetes, Terraform, MLflow, GitHub Actions)
 - Cloud-based model deployment with FastAPI & real-time monitoring (Prometheus, Grafana)
 - NLP and applied machine learning (PyTorch, Transformers, LightGBM, Dask)
-- Cybersecurity fundamentals (Security+ prep)
+- Cybersecurity fundamentals
 
 ---
 
 ## 🛠️ Technical Toolkit
 - Languages: Python, SQL, Bash
-- Tools: FastAPI, Docker, Kubernetes, Git (branching, merges, CI), MLflow, GitHub Actions
+- Tools: FastAPI, Docker, Kubernetes, Git (branching, merges, CI/CD), MLflow, GitHub Actions
 - Cloud: Azure, Azure ML Studio, Terraform, AWS (basic)
 - ML: PyTorch, Hugging Face Transformers, XGBoost, LightGBM, Dask, DVC
 - Monitoring: Prometheus, Grafana
