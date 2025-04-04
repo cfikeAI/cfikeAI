@@ -8,7 +8,7 @@ Based in the U.S. | M.S. in Information Systems (AI/ML Concentration) | Speciali
 
 I'm focused on building real systems—not just prototypes. My work bridges AI, cloud infrastructure, and security to deliver production-ready solutions. I bring a unique combination of technical skill and strategic thinking from a dual background in IT and the humanities.
 
-I earned my M.S. from UMBC with a 4.0 GPA, focusing on AI, machine learning, and secure systems deployment.
+I earned my M.S. from UMBC with a 4.0 GPA, focusing on machine learning, and secure systems deployment.
 
 ---
 
