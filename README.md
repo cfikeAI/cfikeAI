@@ -1,7 +1,6 @@
 # ⚙️ cfikeAI
 
-Based in the U.S. | M.S. in Information Systems (AI/ML Concentration) | Specializing in MLOps, Cloud AI, and Cybersecurity
-
+Cloud-Native AI Developer | M.S. Information Systems (AI/ML) | Specializing in MLOps, Azure, and Infrastructure Automation | Based in US
 ---
 
 ## 🧠 About Me
@@ -38,6 +37,9 @@ I earned my M.S. from UMBC with a 4.0 GPA, focusing on machine learning, and sec
 
 - **Cloud ML Pipelines on Azure**  
   End-to-end MLOps deployment using Azure ML, Docker, and Terraform. Focused on reproducibility, automation, and production-readiness.
+
+- **AI-Powered Avatar Voice Assistant**
+  Built a modular, multimodal assistant combining local LLMs (LangChain), Coqui TTS, Bark, and image generation. Real-time UI with Gradio, optional SadTalker lip-syncing, and persona configuration. Demonstrates real-world GPU inference orchestration, voice synthesis, and scalable component design.
 
 ---
 
