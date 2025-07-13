@@ -5,7 +5,7 @@ Cloud-Native AI Developer | M.S. Information Systems (AI/ML) | Specializing in M
 
 ## 🧠 About Me
 
-I'm focused on building real systems—not just prototypes. My work bridges AI, cloud infrastructure, and security to deliver production-ready solutions. I bring a unique combination of technical skill and strategic thinking from a dual background in IT and the humanities.
+My work bridges AI and cloud infrastructure, and security to deliver production-ready solutions. I bring a unique combination of technical skill and strategic thinking from a dual background in IT and the humanities.
 
 I earned my M.S. from UMBC with a 4.0 GPA, focusing on machine learning, and secure systems deployment.
 
