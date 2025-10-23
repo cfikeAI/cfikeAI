@@ -3,7 +3,7 @@
 Cloud-Native AI Developer | M.S. Information Systems (AI/ML) | Specializing in MLOps, Azure, and Infrastructure Automation | Based in US
 ---
 
-## 🧠 About Me
+## About Me
 
 My work bridges AI and cloud infrastructure to deliver production-ready solutions. I bring a unique combination of technical skill and strategic thinking from a dual background in IT and the humanities.
 
@@ -11,7 +11,7 @@ I earned my M.S. from UMBC with a 4.0 GPA, focusing on machine learning, and sec
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 - Azure AI services and infrastructure (AZ-104, AI-102)
 - Full MLOps pipelines using Docker, Kubernetes, Terraform, MLflow, and GitHub Actions
 - Cloud-based model deployment with FastAPI & real-time monitoring (Prometheus, Grafana)
@@ -20,7 +20,7 @@ I earned my M.S. from UMBC with a 4.0 GPA, focusing on machine learning, and sec
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 - Languages: Python, SQL, Bash
 - Tools: FastAPI, Docker, Kubernetes, Git (branching, merges, CI/CD), MLflow, GitHub Actions
 - Cloud: Azure, Azure ML Studio, Terraform, AWS (basic)
@@ -30,7 +30,7 @@ I earned my M.S. from UMBC with a 4.0 GPA, focusing on machine learning, and sec
 
 ---
 
-## 📂 Selected Projects
+## Selected Projects
 
 - **AI Book Library App**  
   Computer vision and OCR-based tool to catalog physical books, recommend similar titles, and track reading history. Fully Dockerized and integrated with Grafana.
