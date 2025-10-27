@@ -26,7 +26,7 @@ I earned my M.S. from UMBC with a 4.0 GPA, focusing on machine learning, and sec
 - Cloud: Azure, Azure ML Studio, Terraform, AWS (basic)
 - ML: PyTorch, Hugging Face Transformers, XGBoost, LightGBM, Dask, DVC
 - Monitoring: Prometheus, Grafana
-- Environment: Linux (Ubuntu), Windows, VS Code, Jupyter
+- Environment: Linux (Ubuntu), Windows, VS Code, Jupyter Notebook
 
 ---
 
