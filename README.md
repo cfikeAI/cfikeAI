@@ -1,49 +1,55 @@
 # ⚙️ cfikeAI
 
-Cloud-Native AI Developer | M.S. Information Systems (AI/ML) | Specializing in MLOps, Azure, and Infrastructure Automation | Based in US
----
-
-## About Me
-
-My work bridges AI and cloud infrastructure to deliver production-ready solutions. I bring a unique combination of technical skill and strategic thinking from a dual background in IT and the humanities.
-
-I earned my M.S. from UMBC with a 4.0 GPA, focusing on machine learning, and secure systems deployment.
+# Cloud-Native AI Developer | M.S. Information Systems (AI/ML)
+**Specializing in MLOps, Azure, and Infrastructure Automation | Based in the U.S.**
 
 ---
 
-## Current Focus
-- Azure AI services and infrastructure (AZ-104, AI-102)
-- Full MLOps pipelines using DVC, Docker, Kubernetes, Terraform, MLflow, and GitHub Actions
-- Cloud-based model deployment with FastAPI & real-time monitoring (Prometheus, Grafana)
-- NLP and applied machine learning (PyTorch, Transformers, LightGBM, Dask)
-- Cybersecurity fundamentals
+## 🧠 About Me
+I build **production-grade AI systems** that unify machine learning with scalable cloud infrastructure.  
+My background bridges **IT operations, data science, and automation**, allowing me to move seamlessly from experimentation to deployment.  
+
+I hold an **M.S. in Information Systems (AI/ML concentration)** from the **University of Maryland, Baltimore County (UMBC)**, graduating with a **4.0 GPA**, where I focused on **secure and automated ML deployment**.
 
 ---
 
-## Technical Toolkit
-- Languages: Python, SQL, Bash
-- Tools: FastAPI, Docker, Kubernetes, Git (branching, merges, CI/CD), MLflow, GitHub Actions
-- Cloud: Azure, Azure ML Studio, Terraform, AWS (basic)
-- ML: PyTorch, Hugging Face Transformers, XGBoost, LightGBM, Dask, DVC
-- Monitoring: Prometheus, Grafana
-- Environment: Linux (Ubuntu), Windows, VS Code, Jupyter Notebook
+## ⚙️ Core Competencies & Technical Focus
+
+- **Cloud & Infrastructure:** Primary expertise in **Azure AI and infrastructure automation** (AKS, ACR, ML Studio, Terraform); additional exposure to **AWS**.  
+- **MLOps & Automation:** Building **scalable, end-to-end ML pipelines** using **Docker**, **Kubernetes**, **DVC**, **MLflow**, and **GitHub Actions** for reproducibility, CI/CD, and automated deployment.  
+- **Applied Machine Learning & NLP:** Designing, training, and deploying predictive and language models with **PyTorch**, **Hugging Face Transformers**, and distributed data platforms like **Dask** for scalable experimentation and production-grade inference.  
+- **Model Serving & Monitoring:** Deploying and monitoring models via **FastAPI**, **Prometheus**, and **Grafana** with real-time observability and performance tracking.  
+- **Secure Systems Design:** Integrating **IAM**, **secrets management**, and **network security principles** into ML and DevOps workflows to ensure reliability and compliance.  
+- **Languages & Environments:** Python, SQL, Bash, Git | Linux (Ubuntu), Windows, VS Code, Jupyter Notebook.
 
 ---
 
-## Selected Projects
+## 🚀 Selected Projects
 
-- **AI Book Library App**  
-  Computer vision and OCR-based tool to catalog physical books, recommend similar titles, and track reading history. Fully Dockerized and integrated with Grafana.
-
-- **Cloud ML Pipelines on Azure**  
-  End-to-end MLOps deployment using Azure ML, Docker, and Terraform. Focused on reproducibility, automation, and production-readiness.
-
-- **AI-Powered Avatar Voice Assistant**
-  Built a modular, multimodal assistant combining local LLMs (LangChain), Coqui TTS, Bark, and image generation. Real-time UI with Gradio, optional SadTalker lip-syncing, and persona configuration. Demonstrates real-world GPU inference orchestration, voice synthesis, and scalable component design.
+### **AI Book Library App**
+Computer vision and OCR-based system that catalogs physical books, recommends similar titles, and tracks reading history.  
+Fully containerized with **Docker** and monitored via **Grafana** dashboards for performance metrics.
 
 ---
 
-## 🔭 Now Building
+### **Cloud ML Pipelines on Azure**
+End-to-end **MLOps pipeline** deployed with **Azure ML**, **Docker**, and **Terraform**, emphasizing automation, reproducibility, and production scalability.
 
-- End-to-end scalable MLOps stack with CI/CD, monitoring, and experiment tracking  
-- AI deployment workflows with full infrastructure-as-code  
+---
+
+### **AI-Powered Avatar Voice Assistant**
+Modular, multimodal assistant integrating **LangChain**, **Coqui TTS**, **Bark**, and image generation for real-time avatar interaction.  
+Features **GPU inference orchestration**, **Gradio UI**, and configurable personas demonstrating scalable component design.
+
+---
+
+## 🔭 Currently Building
+- A **full-scale MLOps architecture** with integrated CI/CD, monitoring, and experiment tracking.  
+- **Infrastructure-as-Code AI deployments** using **Terraform**, **AKS**, and **MLflow** for reproducible, cloud-native workflows.
+
+---
+
+## 📫 Connect
+📍 **Location:** Maryland, United States  
+💼 **LinkedIn:** [linkedin.com/in/chadfike](https://www.linkedin.com/in/chadfike)  
+💻 **GitHub:** [github.com/cfikeAI](https://github.com/cfikeAI)
