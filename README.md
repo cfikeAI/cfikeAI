@@ -52,4 +52,3 @@ Features **GPU inference orchestration**, **Gradio UI**, and configurable person
 ## 📫 Connect
 📍 **Location:** Maryland, United States  
 💼 **LinkedIn:** [linkedin.com/in/chadfike](https://www.linkedin.com/in/chadfike)  
-💻 **GitHub:** [github.com/cfikeAI](https://github.com/cfikeAI)
